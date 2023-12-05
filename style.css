@@ -1,0 +1,80 @@
+body {
+    background-color: peru;
+}
+
+#site {
+    color: azure;
+    font-size: 50px;
+    text-align: center;
+    font-family: cursive;
+}
+.dou {
+    font-weight: bold;
+}
+.plain {
+    color: azure;
+    font-size: 20px;
+    font-family: cursive;
+}
+.zee {
+   border-radius:5px  ;
+}
+.subscribe {
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+.socials {
+    color: beige;
+    text-decoration: dotted;
+    margin-left: 5px;
+    margin-right: 5px;
+
+}
+.socialss {
+    color: beige;
+    text-decoration: dotted;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.plain_donut {
+    height: 200px;
+    border: 12px azure;
+    border-radius: 30px;
+
+}
+.filled {
+    height: 200px;
+    border: 12px azure;
+    border-radius: 30px; 
+}
+.lazed {
+    height: 200px;
+    border: 12px azure;
+    border-radius: 30px;
+}
+.plain-cake {
+    height: 200px;
+    border: 12px azure;
+    border-radius: 30px;
+}
+.bento {
+    height: 200px;
+    border: 12px azure;
+    border-radius: 30px;
+}
+.birtday {
+    height: 200px;
+    border: 12px azure;
+    border-radius: 30px;
+}
+.sambusa {
+    height: 200px;
+    border: 12px azure;
+    border-radius: 30px;
+}
+.sprinroll {
+    height: 200px;
+    border: 12px azure;
+    border-radius: 30px;
+}
